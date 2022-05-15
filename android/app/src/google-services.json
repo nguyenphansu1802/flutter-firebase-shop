@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "704377338264",
+    "project_id": "fir-shop-c5a68",
+    "storage_bucket": "fir-shop-c5a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704377338264:android:041d46ad2db95a3e2e93ed",
+        "android_client_info": {
+          "package_name": "com.example.flutter_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704377338264-brafdbessltu4hchqq1clrkm1kq0tmv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9QaTEI2Tk5-2fE_kVQeSzuI1Tr_DmvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704377338264-brafdbessltu4hchqq1clrkm1kq0tmv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
